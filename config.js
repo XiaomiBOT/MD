@@ -18,19 +18,19 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285162634171','0','6285748894171']
-global.pemilik = ['6285748894171']
-global.premium = ['6285162634171']
-global.pengguna = 'Nakata'
-global.botnma = 'NahBotz-MD'
-global.footer = 'Nakataa' //FooterText Biar Di Bawah Nya Ada Text 
-global.web = 'https://youtube.com/c/NakataZ' // Ubah Sama Lu Web Nya Bebas 
-global.web2 = 'https://github.com/nakataaard' //Ubah Jga Bebas Sama lu 
+global.owner = ['6285822347348','6285822347348','6285822347348']
+global.pemilik = ['6285822347348']
+global.premium = ['6285822347348']
+global.pengguna = 'ArullOfc'
+global.botnma = 'ArullBotzMD'
+global.footer = 'ArullBotzMD' //FooterText Biar Di Bawah Nya Ada Text 
+global.web = 'https://youtu.be/jOhhY7ef_qM' // Ubah Sama Lu Web Nya Bebas 
+global.web2 = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR' //Ubah Jga Bebas Sama lu 
 global.ganti = 'Y O U T U B E ME' //Edit Terserah Lu Mau Apa
-global.ganti2 = 'Github'
-global.ownernma = 'Nakataa'
-global.packname = 'NahBotz'
-global.author = 'NahBotz'
+global.ganti2 = 'Group Bot'
+global.ownernma = 'ArullOfc'
+global.packname = 'Sticker By'
+global.author = 'ArullOfc'
 global.sessionName = 'nahh'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
