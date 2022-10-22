@@ -18,31 +18,31 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285822347348','6285822347348','6285822347348']
+global.owner = ['6285770190255','6285779150501','6285770190255']
 global.pemilik = ['6285822347348']
 global.premium = ['6285822347348']
-global.pengguna = 'ArullOfc'
-global.botnma = 'ArullBotzMD'
-global.footer = 'ArullBotzMD' //FooterText Biar Di Bawah Nya Ada Text 
-global.web = 'https://youtu.be/jOhhY7ef_qM' // Ubah Sama Lu Web Nya Bebas 
-global.web2 = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR' //Ubah Jga Bebas Sama lu 
+global.pengguna = 'HanzOfc'
+global.botnma = 'XiaomiBotzMD'
+global.footer = 'XiaomiBotzMD' //FooterText Biar Di Bawah Nya Ada Text 
+global.web = 'https://youtu.be/uYCHtg0sUkE' // Ubah Sama Lu Web Nya Bebas 
+global.web2 = 'https://chat.whatsapp.com/CxhaZtrxdn4AfSUOHuCtcM' //Ubah Jga Bebas Sama lu 
 global.ganti = 'Y O U T U B E ME' //Edit Terserah Lu Mau Apa
 global.ganti2 = 'Group Bot'
-global.ownernma = 'ArullOfc'
+global.ownernma = 'HanzOfc'
 global.packname = 'Sticker By'
-global.author = 'ArullOfc'
+global.author = 'HanzOfc'
 global.sessionName = 'nahh'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
     admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    botAdmin: 'Jadiin Gw Admin Dulu Tolol🗿!',
+    owner: 'Lu Bukan _*Owner Gw Ajg🗿',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Loading Tod🗿...',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
